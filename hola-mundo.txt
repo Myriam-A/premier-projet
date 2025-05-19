@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Bonjour le monde
 Hallo Welt
 Ciao mondo
 Hola, mundo
 Olá mundo
+=======
+
+>>>>>>> 7897162d90329df1a00baf8de63d2e87bd7cf464
